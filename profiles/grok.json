@@ -1,7 +1,4 @@
 {
-    "name": "Grok",
-
-    "model": "grok-4-fast-reasoning",
-    
-    "embedding": "openai"
+  "model": "llama-3.1-8b-instant",
+  "base_url": "https://api.groq.com/openai/v1"
 }
