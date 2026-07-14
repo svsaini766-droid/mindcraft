@@ -16,7 +16,7 @@ const settings = {
         // "./profiles/gemini.json",
         // "./profiles/llama.json",
         // "./profiles/qwen.json",
-        // "./profiles/grok.json",
+         "./profiles/grok.json",
         // "./profiles/mistral.json",
         // "./profiles/deepseek.json",
         // "./profiles/mercury.json",
