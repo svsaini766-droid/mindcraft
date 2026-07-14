@@ -8,15 +8,15 @@ const settings = {
     "mindserver_port": 8080,
     "auto_open_ui": true, // opens UI in browser on startup
     
-    "base_profile": "grok", // survival, assistant, creative, or god_mode
+    "base_profile": "llama", // survival, assistant, creative, or god_mode
     "profiles": [
         "./andy.json",
         // "./profiles/gpt.json",
         // "./profiles/claude.json",
         // "./profiles/gemini.json",
-        // "./profiles/llama.json",
+        "./profiles/llama.json",
         // "./profiles/qwen.json",
-         "./profiles/grok.json",
+        // "./profiles/grok.json",
         // "./profiles/mistral.json",
         // "./profiles/deepseek.json",
         // "./profiles/mercury.json",
