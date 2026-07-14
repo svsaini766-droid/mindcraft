@@ -7,7 +7,7 @@ const settings = {
   "mindserver_port": 8080,
   "auto_open_ui": true,
 
-  "base_profile": "./profiles/llama.json",
+  "base_profile": "assistant", 
   "profiles": [
     "./profiles/llama.json"
   ],
