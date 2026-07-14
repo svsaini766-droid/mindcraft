@@ -23,7 +23,7 @@ const settings = {
   "allow_vision": false,
   "blocked_actions": ["checkBlueprint", "checkBlueprintLevel", "getBlueprint", "getBlueprintLevel"],
   "code_timeout_mins": -1,
-  "relevant_docs_count": 5,
+  "relevant_docs_count": 1,
   "max_messages": 6,
   "num_examples": 1,
   "max_commands": -1,
