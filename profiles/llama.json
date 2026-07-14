@@ -3,6 +3,5 @@
   "api": "openai",
   "model": "llama-3.1-8b-instant",
   "base_url": "https://api.groq.com/openai/v1",
-  "prompt": "assistant"
+  "prompt": "./profiles/prompts/assistant.txt"
 }
-
