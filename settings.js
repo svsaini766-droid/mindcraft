@@ -12,7 +12,7 @@ const settings = {
     "./profiles/llama.json"
   ],
 
-  "load_memory": false,
+  "load_memory": true,
   "init_message": "Respond with hello world and your name",
   "only_chat_with": [],
   "speak": false,
